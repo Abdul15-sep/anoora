@@ -698,7 +698,7 @@ header .bar ul li ul{
     }
     .sub2{
         width:100%;
-        
+        background:red;
         margin-top: -20px;
         height:400px;
         display: flex;
